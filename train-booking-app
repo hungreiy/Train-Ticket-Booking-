@@ -1,0 +1,11 @@
+train-booking-app/
+├── server/
+│   ├── index.js          # Backend (Node.js/Express)
+│   ├── seats.js          # Seat management logic
+│   └── package.json
+├── client/
+│   ├── index.html        # Frontend UI
+│   ├── style.css         # Styling
+│   ├── app.js            # Client-side logic
+│   └── socket.js         # WebSocket handling
+└── README.md             # Setup instructions
